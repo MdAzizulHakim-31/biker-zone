@@ -1,3 +1,6 @@
 .bz-light-red{
     background-color: rgb(243, 141, 141);
 }
+.rating-star{
+    width: 20px;
+}
